@@ -1,3 +1,4 @@
+//https://gobyexample.com/structs
 package main
 
 import "fmt"

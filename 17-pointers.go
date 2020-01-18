@@ -1,3 +1,4 @@
+//https://gobyexample.com/pointers
 package main
 
 import "fmt"

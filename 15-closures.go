@@ -1,3 +1,4 @@
+//https://gobyexample.com/closures
 package main
 
 import "fmt"
